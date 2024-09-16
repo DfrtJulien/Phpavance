@@ -31,6 +31,9 @@
         <li class="nav-item">
           <a class="nav-link active" href="/app/Controllers/PdoController.php">PDO</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="/app/Controllers/FormulaireController.php">Formulaire contact</a>
+        </li>
       </ul>
     </div>
   </div>
