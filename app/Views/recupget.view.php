@@ -1,5 +1,5 @@
 <?php
-    include '../Views/partials/head.php';
+    include 'app/Views/partials/head.php';
     echo '<pre>';
         var_dump($_GET);
     echo '</pre>';
@@ -26,5 +26,5 @@
         echo "<p>$age</p>";
     }
 
-    include '../Views/partials/footer.php';
+    include 'app/Views/partials/footer.php';
 ?>

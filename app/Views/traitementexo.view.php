@@ -1,5 +1,5 @@
 <?php
-include '../Views/partials/head.php';
+include 'app/Views/partials/head.php';
 //inclure head et footer
 
 /** Exercice 1 : Affichage des paramètres
@@ -118,4 +118,4 @@ function dollarsToEuro($prix){
     }
  }
 
- include '../Views/partials/footer.php';
+ include 'app/Views/partials/footer.php';

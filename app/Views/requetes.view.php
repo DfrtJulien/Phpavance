@@ -1,5 +1,5 @@
 <?php
-    include '../Views/partials/head.php';
+    include 'app/Views/partials/head.php';
 ?>
 <h1>Les requêtes HTTP</h1>
     <h2>Qu'est-ce que HTTP</h2>
@@ -120,5 +120,5 @@
     <h3>HTTPS</h3>
     <p>HTTPS (HyperText Transfer Protocol Secure) est la version sécurisée de HTTP. Il utilise SSL/TLS pour chiffrer les données échangées entre le client et le serveur.</p>
 <?php
-    include '../Views/partials/footer.php';
+    include 'app/Views/partials/footer.php';
 ?>
